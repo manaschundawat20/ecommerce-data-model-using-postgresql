@@ -18,3 +18,6 @@ The dataset for this competition is a relational set of files describing custome
 drive.google.com (csv files)
 
 https://drive.google.com/drive/folders/1ND6v5hqn9i8RdnaDsfawNlDMTkJqqhZ2?usp=drive_link
+
+##Data Model
+![Data Model image](data_model.png)
